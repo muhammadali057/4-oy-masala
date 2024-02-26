@@ -30,12 +30,12 @@
 
 
 
-const yosh = 45; 
+// const yosh = 45; 
 
-if (yosh >= 0 && yosh <= 30) {
-    console.log("Yoshsiz");
-} else if (yosh > 30 && yosh <= 60) {
-    console.log("Kattasiz");
-} else {
-    console.log("Siz qarisiz");
-}
+// if (yosh >= 0 && yosh <= 30) {
+//     console.log("Yoshsiz");
+// } else if (yosh > 30 && yosh <= 60) {
+//     console.log("Kattasiz");
+// } else {
+//     console.log("Siz qarisiz");
+// }
